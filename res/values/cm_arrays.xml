@@ -441,6 +441,32 @@
         <item>2</item>
     </string-array>
 
+    <string-array name="clock_style_entries">
+        <item>@string/right_clock</item>
+        <item>@string/center_clock</item>
+        <item>@string/left_clock</item>
+        <item>@string/no_clock</item>
+    </string-array>
+
+    <string-array name="clock_style_values" translatable="false">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>0</item>
+    </string-array>
+
+    <string-array name="entries_status_bar_am_pm">
+        <item>Normal</item>
+        <item>Small</item>
+        <item>None (default)</item>
+    </string-array>
+
+    <string-array name="values_status_bar_am_pm" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
     <string-array name="power_menu_actions_array" translatable="false">
         <item>power</item>
         <item>reboot</item>
